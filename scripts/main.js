@@ -301,4 +301,6 @@ for (const song of songs) {
 // 2. SongAsHTML
 // 3. SongList
 
-// ! can you think of any other way to refactor the code following the single-responsibility principle??
+// ! ideally, main.js should only import and invoke the one function responsible for handling all of the functionality
+
+// ? can you think of any other way to refactor the code following the single-responsibility principle??
